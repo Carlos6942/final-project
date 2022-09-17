@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url("../img/IMG_0281.JPG");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
 header {
     height: 52.5px;
     width: 100%;
@@ -57,11 +64,6 @@ p {
     clear: both;
 }
 
-.home-image1 {
-    background-image: url("../img/IMG_0281.JPG");
-    height: 1400px;
-    background-size: 1400px;
-}
 
 #center-logo {
     text-align: center;
